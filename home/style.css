@@ -1,0 +1,14 @@
+.btn:hover{
+    background-color: rgb(8, 0, 115);
+    position: absolute;
+}
+
+.class-1{
+    width: 100vw;
+    height: 100vh;
+    left: 0;
+    top: 0;
+    position: relative;
+    background-color: rgb(8, 0, 115);
+    display: flex;
+}
